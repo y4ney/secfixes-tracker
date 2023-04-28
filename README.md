@@ -1,3 +1,4 @@
+[简体中文](./README_zh.md)
 # Alpine Security Fix Tracker
 
 This is a Flask web application which tracks security fixes in Alpine.

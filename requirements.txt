@@ -1,5 +1,5 @@
-flask
-flask-sqlalchemy
-flask-accept
-requests
-PyYAML
+Flask==2.3.1
+Flask-SQLAlchemy==3.0.3
+flask-accept==0.0.6
+requests==2.29.0
+PyYAML==6.0
